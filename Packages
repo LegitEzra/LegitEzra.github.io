@@ -10,7 +10,7 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Test package do not install.
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://LegitEzra.github.io/depictions/?p=com.supermamon.newpackage
 
 Package: com.LegitEzra.oldpackage
 Version: 1.0.0-1
@@ -24,4 +24,4 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: Test package do not install.
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://LegitEzra.github.io/depictions/?p=com.supermamon.oldpackage
